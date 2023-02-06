@@ -1,5 +1,5 @@
-import { json } from "body-parser";
-import User from "../models/User";
+//import { json } from "body-parser";
+import User from "../models/User.js";
 
 //read
 
